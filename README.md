@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Alexandr Pyslar
 
-<!--
-**CCChelios/ccchelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Middle C++ / Embedded разработчик из Москвы. Работаю с embedded, ESP32/ESP-IDF, сетевыми интеграциями и системным дебагом. Сейчас развиваю видеоподсистему «Орион Видео 2.0» в составе ИСО «Орион Про».
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++ / Embedded: ESP32, ESP-IDF, периферия, отладка
+- Networking: UART, MQTT, RabbitMQ, TCP/IP, PPP/IP
+- Debug: JTAG, осциллограф, datasheet'ы, воспроизводимые эксперименты
+- Domain: IoT, видеонаблюдение, охранные системы
+
+## Фокус
+
+- ESPHome modem component: SIM800 + PPP/IP для ESP32
+- Embedded и backend-задачи, где нужно быстро дойти от логов до рабочего результата
+
+## Контакты
+
+- Telegram: [@ccchelios](https://t.me/ccchelios)
+- Email: `palexanndr@gmail.com`
